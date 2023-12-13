@@ -1,0 +1,34 @@
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Negocio.deps.json
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Negocio.dll
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Negocio.pdb
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.dll
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\refint\Api.Tareas.Negocio.dll
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.pdb
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\ref\Api.Tareas.Negocio.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Negocio.deps.json
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Negocio.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Negocio.pdb
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Pruebas.Comun.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Dominio.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Dto.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Persistencia.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Repositorio.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Dominio.pdb
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Dto.pdb
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Repositorio.pdb
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Tareas.Persistencia.pdb
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\bin\Debug\net6.0\Api.Pruebas.Comun.pdb
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\refint\Api.Tareas.Negocio.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\Api.Tareas.Negocio.pdb
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Negocio\obj\Debug\net6.0\ref\Api.Tareas.Negocio.dll

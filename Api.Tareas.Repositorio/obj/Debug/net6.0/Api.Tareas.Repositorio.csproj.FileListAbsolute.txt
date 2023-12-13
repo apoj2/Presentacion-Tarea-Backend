@@ -1,0 +1,28 @@
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Repositorio\bin\Debug\net6.0\Api.Tareas.Repositorio.deps.json
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Repositorio\bin\Debug\net6.0\Api.Tareas.Repositorio.dll
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Repositorio\bin\Debug\net6.0\Api.Tareas.Repositorio.pdb
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.dll
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\refint\Api.Tareas.Repositorio.dll
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.pdb
+C:\Users\USUARIO\Documents\Desarrollo Empresarial\Sisdecar\Desarrollo Backend\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\ref\Api.Tareas.Repositorio.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\bin\Debug\net6.0\Api.Tareas.Repositorio.deps.json
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\bin\Debug\net6.0\Api.Tareas.Repositorio.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\bin\Debug\net6.0\Api.Tareas.Repositorio.pdb
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\bin\Debug\net6.0\Api.Tareas.Dominio.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\bin\Debug\net6.0\Api.Tareas.Persistencia.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\bin\Debug\net6.0\Api.Tareas.Dominio.pdb
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\bin\Debug\net6.0\Api.Tareas.Persistencia.pdb
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\refint\Api.Tareas.Repositorio.dll
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\Api.Tareas.Repositorio.pdb
+C:\Users\USUARIO\source\repos\Api.Tareas\Api.Tareas.Repositorio\obj\Debug\net6.0\ref\Api.Tareas.Repositorio.dll

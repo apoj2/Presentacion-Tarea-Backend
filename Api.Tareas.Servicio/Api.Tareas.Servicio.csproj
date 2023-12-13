@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="6.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.Tareas.Negocio\Api.Tareas.Negocio.csproj" />
+    <ProjectReference Include="..\Api.Tareas.Persistencia\Api.Tareas.Persistencia.csproj" />
+    <ProjectReference Include="..\Api.Tareas.Repositorio\Api.Tareas.Repositorio.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Api.Pruebas.Comun">
+      <HintPath>..\..\Api.Pruebas.Compartido\Api.Pruebas.Comun\bin\Debug\net6.0\Api.Pruebas.Comun.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

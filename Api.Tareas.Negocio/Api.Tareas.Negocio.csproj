@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.Tareas.Dominio\Api.Tareas.Dominio.csproj" />
+    <ProjectReference Include="..\Api.Tareas.Dto\Api.Tareas.Dto.csproj" />
+    <ProjectReference Include="..\Api.Tareas.Repositorio\Api.Tareas.Repositorio.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Api.Pruebas.Comun">
+      <HintPath>..\..\Api.Pruebas.Compartido\Api.Pruebas.Comun\bin\Debug\net6.0\Api.Pruebas.Comun.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
